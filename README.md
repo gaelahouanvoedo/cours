@@ -1,3 +1,3 @@
-# ML Projects
+# Kaggle
 
-A respository to collect my mini Machine Learning projects  .
+A respository to collect my project with Kaggle Datasets
